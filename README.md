@@ -54,7 +54,7 @@ uvicorn api:app --reload
 
 After the server starts, open the FastAPI documentation in a browser:
 
-http://127.0.0.1:8000/docs
+http://127.0.0.1:8000
 
 Find the POST/events endpoint, click **Try it out**, enter a shuttle event in JSON format
 and click **Execute**.
